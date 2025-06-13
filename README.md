@@ -118,8 +118,5 @@ pytest
 
 #### Using [npm](https://www.npmjs.com/):
 ```bash
-# Replace with npm test command, if applicable
-```
 
-> ⚠️ Replace `{entrypoint}` and `{test_framework}` with the actual script name and test framework you’re using.
 
