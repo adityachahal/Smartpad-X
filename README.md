@@ -72,3 +72,54 @@ Build Smartpad-X from source and install dependencies:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/adityachahal/Smartpad-X.git
+   # Smartpad-X
+
+## Getting Started
+
+### 1. Navigate to the project directory:
+```bash
+cd Smartpad-X
+```
+
+### 2. Install the dependencies:
+
+#### Using [pip](https://pip.pypa.io/):
+```bash
+pip install -r backend/requirements.txt
+```
+
+#### Using [npm](https://www.npmjs.com/):
+```bash
+npm install
+```
+
+## Usage
+
+Run the project with:
+
+#### Using [pip](https://pip.pypa.io/):
+```bash
+python {entrypoint}
+```
+
+#### Using [npm](https://www.npmjs.com/):
+```bash
+npm start
+```
+
+## Testing
+
+Smartpad-X uses the `{test_framework}` test framework. Run the test suite with:
+
+#### Using [pip](https://pip.pypa.io/):
+```bash
+pytest
+```
+
+#### Using [npm](https://www.npmjs.com/):
+```bash
+# Replace with npm test command, if applicable
+```
+
+> ⚠️ Replace `{entrypoint}` and `{test_framework}` with the actual script name and test framework you’re using.
+
